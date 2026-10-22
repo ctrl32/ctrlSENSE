@@ -2,4 +2,4 @@
 
 Backend and dashboard for ctrlSENSE sensors.
 
-Licensed under [Apache-2.0](../LICENSES/Apache-2.0.txt).
+Licensed under [AGPL-3.0-or-later](../LICENSES/AGPL-3.0-or-later.txt).
